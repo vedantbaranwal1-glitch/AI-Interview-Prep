@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = axios.create({
+const api = axios.create({
   baseURL: "https://ai-interview-prep-6h9v.onrender.com",
 });
 
